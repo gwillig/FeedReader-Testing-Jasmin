@@ -5,4 +5,7 @@ The focus of the project was to learn the JavaScript testing frameworkuse Jasmin
 * Download of clone the folder
 * Open the index.html in your browser 
 
-Please feel free to copy or clone the project.
+# License
+The MIT License (MIT)
+
+Copyright (c) 2018 Gustav Willig
