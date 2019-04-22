@@ -8,4 +8,4 @@ The focus of the project was to learn the JavaScript testing frameworkuse Jasmin
 # License
 The MIT License (MIT)
 
-Copyright (c) 2018 Gustav Willig
+Copyright (c) 2019 Gustav Willig
